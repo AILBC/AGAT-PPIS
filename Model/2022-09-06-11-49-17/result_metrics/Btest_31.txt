@@ -1,0 +1,91 @@
+Fold1_best_model.pkl
+========== Evaluate Test set ==========
+Test loss:  0.3402312023024405
+Test binary acc:  0.8534023443446491
+Test precision: 0.46016949152542375
+Test recall:  0.6248561565017261
+Test f1:  0.5300146412884333
+Test AUC:  0.8686153675327558
+Test AUPRC:  0.5377879119097598
+Test mcc:  0.45285141997435274
+Threshold:  0.34
+
+
+Fold2_best_model.pkl
+========== Evaluate Test set ==========
+Test loss:  0.3077631760989466
+Test binary acc:  0.8553813365809103
+Test precision: 0.46818538884524746
+Test recall:  0.6858457997698504
+Test f1:  0.5564892623716153
+Test AUC:  0.8807701936083016
+Test AUPRC:  0.5836187415192445
+Test mcc:  0.48606993794761105
+Threshold:  0.27
+
+
+Fold3_best_model.pkl
+========== Evaluate Test set ==========
+Test loss:  0.3296728802304114
+Test binary acc:  0.8722788856751408
+Test precision: 0.5151515151515151
+Test recall:  0.5868814729574223
+Test f1:  0.5486820871436255
+Test AUC:  0.8754234550703571
+Test AUPRC:  0.5693326132473329
+Test mcc:  0.47603109534821164
+Threshold:  0.19
+
+
+Fold4_best_model.pkl
+========== Evaluate Test set ==========
+Test loss:  0.3331328361265121
+Test binary acc:  0.8626883848378749
+Test precision: 0.4838709677419355
+Test recall:  0.569620253164557
+Test f1:  0.5232558139534885
+Test AUC:  0.8594831728342721
+Test AUPRC:  0.5490885835608096
+Test mcc:  0.44568460594599113
+Threshold:  0.19
+
+
+Fold5_best_model.pkl
+========== Evaluate Test set ==========
+Test loss:  0.3529796706091973
+Test binary acc:  0.8622316943218146
+Test precision: 0.48221343873517786
+Test recall:  0.5615650172612198
+Test f1:  0.5188729399255715
+Test AUC:  0.8458847636928916
+Test AUPRC:  0.5120951005801507
+Test mcc:  0.44075525124723164
+Threshold:  0.41
+
+
+Full_model_41.pkl
+========== Evaluate Test set ==========
+Test loss:  0.3226219901154118
+Test binary acc:  0.848378748667986
+Test precision: 0.449802371541502
+Test recall:  0.6547756041426928
+Test f1:  0.5332708528584817
+Test AUC:  0.8642474713827145
+Test AUPRC:  0.536261621038672
+Test mcc:  0.45767670868545823
+Threshold:  0.2
+
+
+Full_model_45.pkl
+========== Evaluate Test set ==========
+Test loss:  0.32071965548299974
+Test binary acc:  0.8453341452275841
+Test precision: 0.44359171143514964
+Test recall:  0.6651323360184119
+Test f1:  0.5322283609576427
+Test AUC:  0.866164779036198
+Test AUPRC:  0.5299060007311461
+Test mcc:  0.45705450879339427
+Threshold:  0.27
+
+
