@@ -6,7 +6,7 @@
     (d) The combination of the initial residual and identity mapping and AGAT makes the model to learn the high-order embedding representations of resides more sufficiently, and so the model performance surpasses others significantly.
 ## 2 Installation
 ### 2.1 system requirements
-  For fast prediction and training process, we recommend using a GPU. To use AGAT-PPIS with GPUs, you will need: cuda = 10.1
+  For fast prediction and training process, we recommend using a GPU. To use AGAT-PPIS with GPUs, you will need: cuda >= 10.1
 ### 2.2 virtual environment requirements
     (1) python 3.6
     (2) torch-1.7.0+cu101
